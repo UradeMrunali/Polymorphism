@@ -13,6 +13,5 @@ public class PolyTest {
 //downcasting or manual casting is not possible directly you have to apply filter like "Poly3"	
 	Poly3 p2 =(Poly3) new Poly2();
 	p2.display();
-	
 }
 }
