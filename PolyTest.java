@@ -1,6 +1,5 @@
 // example of runtime polymorphism or method overriding or Dynamic Method Dispatch
 public class PolyTest {
-	
  public static void main(String[] args) {
 	 
 	Poly3 p =new Poly3();
